@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luca Agostinho Bendasoli!
+# 👋 Hi, I'm Luca Agostinho Bendasoli Silva!
 
 ❤️ Passionate about **automation, web development, and AI**, I specialize in creating innovative solutions that enhance efficiency and optimize processes. I love solving problems with technology and challenge myself while I do it.
 
