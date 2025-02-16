@@ -19,7 +19,7 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luca-agostinho-bendasoli-silva-a4b583276/)  
+👨🏻‍💻 **Profile** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luca-agostinho-bendasoli-silva-a4b583276/)  
 📧 **Email:** lucaabenda@icloud.com  
 
 ---
